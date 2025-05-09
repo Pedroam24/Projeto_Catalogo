@@ -1,0 +1,11 @@
+C:\Users\Alunos\Desktop\DPL\gta_vi\bin\Debug\gta_vi.exe.config
+C:\Users\Alunos\Desktop\DPL\gta_vi\bin\Debug\gta_vi.exe
+C:\Users\Alunos\Desktop\DPL\gta_vi\bin\Debug\gta_vi.pdb
+C:\Users\Alunos\Desktop\DPL\gta_vi\obj\Debug\gta_vi.csproj.AssemblyReference.cache
+C:\Users\Alunos\Desktop\DPL\gta_vi\obj\Debug\gta_vi.Form1.resources
+C:\Users\Alunos\Desktop\DPL\gta_vi\obj\Debug\gta_vi.Form2.resources
+C:\Users\Alunos\Desktop\DPL\gta_vi\obj\Debug\gta_vi.Properties.Resources.resources
+C:\Users\Alunos\Desktop\DPL\gta_vi\obj\Debug\gta_vi.csproj.GenerateResource.cache
+C:\Users\Alunos\Desktop\DPL\gta_vi\obj\Debug\gta_vi.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\DPL\gta_vi\obj\Debug\gta_vi.exe
+C:\Users\Alunos\Desktop\DPL\gta_vi\obj\Debug\gta_vi.pdb
