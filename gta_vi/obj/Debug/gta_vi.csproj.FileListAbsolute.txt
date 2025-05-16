@@ -9,3 +9,5 @@ C:\Users\Alunos\Desktop\DPL\gta_vi\obj\Debug\gta_vi.csproj.GenerateResource.cach
 C:\Users\Alunos\Desktop\DPL\gta_vi\obj\Debug\gta_vi.csproj.CoreCompileInputs.cache
 C:\Users\Alunos\Desktop\DPL\gta_vi\obj\Debug\gta_vi.exe
 C:\Users\Alunos\Desktop\DPL\gta_vi\obj\Debug\gta_vi.pdb
+C:\Users\Alunos\Desktop\DPL\gta_vi\obj\Debug\gta_vi.Form3.resources
+C:\Users\Alunos\Desktop\DPL\gta_vi\obj\Debug\gta_vi.visualizar.resources
